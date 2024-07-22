@@ -4,7 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AES_Tutorial_2021/blob/main/AEStutorialDeepLearingfor_Audio.ipynb)
 
 See also the video at: 
-https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-angewandte-mediensysteme/publikationen/tutorials-and-talks
+https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-angewandte-mediensysteme/publikationen/talks-and-tutorials
 <img src="aesTotorialIntroSlide.png" alt="AES Fall Online 2021" target="_blank">
 
 ## Content
