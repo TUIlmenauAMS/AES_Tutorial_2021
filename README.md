@@ -1,4 +1,4 @@
-# AES Fall Online 2021 "Deep Learning for Audio Signal Processing" Tutorial
+# AES Fall Online 2021 "Deep Learning for Audio Signal Processing with Python and Pytorch Examples" Tutorial
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TUIlmenauAMS/AES_Tutorial_2021/blob/main/AEStutorialDeepLearingfor_Audio.ipynb)
